@@ -1,6 +1,6 @@
-// TODO: Fix the function body without changing the signature.
+// return expression must not have a semicolon
 fn square(num: i32) -> i32 {
-    num * num;
+    num * num
 }
 
 fn main() {
